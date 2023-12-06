@@ -1,1 +1,1 @@
-Creating a new directory
+Creating new directories and files
